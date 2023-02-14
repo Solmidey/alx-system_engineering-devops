@@ -1,2 +1,1 @@
-0-hello_world just prints
-1-confused_smiley print confused smiley
+2-hellofile displays contents of /etc/passwd
